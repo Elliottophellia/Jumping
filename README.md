@@ -14,6 +14,8 @@ Disboard Bumping Macro
   <br/>
   > click the message form
   <br/>
+  > copy "<i> !d bump </i>"
+  <br/>
   > ctrl + ~
 </details>
  <details>
