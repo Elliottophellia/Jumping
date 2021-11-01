@@ -1,3 +1,5 @@
+# MOVE TO SELF BOT -> https://github.com/Eilaluth/Mochizuki
+
 # Jumping
 Disboard Bumping Macro
 
